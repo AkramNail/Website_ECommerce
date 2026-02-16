@@ -17,6 +17,10 @@ form.pencarian{
 
 }
 
+.navigasi{
+    margin-bottom: 30px;
+}
+
 .logo{
     flex: 1 1;
     max-width: 300px;
@@ -48,4 +52,37 @@ a.kategori{
 .keranjang {
     margin-right: 20px;
     align-self: center;
+}
+
+.banner{
+    background-color: aqua;
+    align-self: center;
+    min-width: 500px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.banner-img{
+    max-height: 300px;
+}
+
+.list-card{
+    max-width: 800px;
+}
+.card{
+    height: 250px;
+    width: 160px;
+    background-color: red;
+}
+.produk-img{
+    height: 200px;
+    width: 160px;
+}
+.produk-text{
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.produk-harga{
+    font-size: 16px;
 }

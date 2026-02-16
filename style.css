@@ -1,0 +1,51 @@
+svg {
+    flex-shrink: 0;
+}
+
+a.text-link-normal{
+
+    text-decoration: none; 
+    color: black;
+
+}
+
+form.pencarian{
+
+    flex: 2 2;
+    max-width: 800px;
+    min-width: 100px;
+
+}
+
+.logo{
+    flex: 1 1;
+    max-width: 300px;
+    min-width: 240px;
+}
+a.tokopedia{
+    color: rgb(0, 255, 68);
+}
+a.kategori{
+    margin-left: 20px;
+}
+
+.tombol-daftar-masuk {
+    flex: 1 1;
+    max-width: 140px;
+    min-width: 300px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.daftar {
+    margin-right: 20px;
+}
+
+.masuk {
+    margin-right: 20px;
+}
+
+.keranjang {
+    margin-right: 20px;
+    align-self: center;
+}

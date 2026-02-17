@@ -55,8 +55,6 @@ a.kategori{
 }
 
 .banner{
-    background-color: aqua;
-    align-self: center;
     min-width: 500px;
     padding-right: 100px;
     padding-left: 100px;

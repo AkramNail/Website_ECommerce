@@ -2,7 +2,7 @@ svg {
     flex-shrink: 0;
 }
 
-a.text-link-normal{
+.text-link-normal{
 
     text-decoration: none; 
     color: black;
@@ -83,4 +83,12 @@ a.kategori{
 }
 .produk-harga{
     font-size: 16px;
+}
+
+.info-img{
+    max-height: 120px;
+}
+
+.keamanan-img{
+    width: 90px;
 }
